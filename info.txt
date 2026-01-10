@@ -1,7 +1,80 @@
 Complete C# Unity 3D Game Development in Unity 6
 
-Galaxy Strike 3D: Inicio de proyecto
+Galaxy Strike 3D: Input Action Map
 
 
 
 Fecha de inicio: Jueves 1 de enero de 2026
+
+Lunes 5 de enero de 2026
+Viernes 9 de enero de 2026
+Sábado 10 de enero de 2026
+
+
+11:23
+Player Ship Movement
+07:00
+Mathf.Clamp() Ship Movement
+06:04
+Roll Our Ship
+06:01
+Lerping Ship Rotation
+03:05
+Rotating Pitch
+03:07
+Particle System Ship Laser
+13:26
+Laser Fire Input
+10:24
+C# Arrays & Foreach Loops
+07:45
+Crosshair Rect Transform
+05:19
+ScreenToWorldPoint Target
+06:02
+Vector Arithmetic
+06:44
+Collision & Triggers
+06:24
+Particle Collision
+02:26
+Instantiate at Runtime
+10:02
+Nested Prefabs & Prefab Variants
+16:00
+Enemy Ship Variants
+11:14
+Tune & Tweak
+06:55
+Enemy Hit Points
+06:13
+Public Methods C#
+12:17
+Scoreboard UI
+09:25
+Enemy Waves Using Control Tracks
+10:59
+Timeline Audio
+05:44
+Displaying Dialogue Using Signals
+13:05
+Portrait Camera Render Texture
+16:03
+Paint Trees on Terrain
+16:42
+Rendering, Lighting, & Shadows
+07:19
+Skybox
+03:19
+Post Processing
+05:48
+Layers & Multiple Volume Profiles
+07:11
+Reload Level Using Coroutines
+07:28
+Music Singleton
+06:12
+Your Vertical Slice
+04:39
+Wrap Up - Galaxy Strike
+04:22
