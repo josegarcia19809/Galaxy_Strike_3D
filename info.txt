@@ -1,6 +1,6 @@
 Complete C# Unity 3D Game Development in Unity 6
 
-Galaxy Strike 3D: Lerping Ship Rotation
+Galaxy Strike 3D: Rotating Pitch
 
 
 
@@ -13,7 +13,7 @@ Miércoles 14 de enero de 2026
 
 
 03:05
-Rotating Pitch
+
 03:07
 Particle System Ship Laser
 13:26
