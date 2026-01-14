@@ -7,6 +7,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] float xClampRange = 5;
     [SerializeField] float yClampRange = 5;
 
+    [SerializeField] float controlRolFactor = 20;
     Vector2 movement;
 
     void Start()
@@ -17,6 +18,7 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         ProcessTranslation();
+        ProcessRotation();
     }
 
     private void ProcessTranslation()
@@ -31,6 +33,12 @@ public class PlayerMovement : MonoBehaviour
 
 
         transform.localPosition = new Vector3(clampedXPos, clampedYPos, 0f);
+    }
+
+    private void ProcessRotation()
+    {
+        Quaternion targetRotation = Quaternion.Euler(0f, 0f, -controlRolFactor * movement.x);
+        transform.localRotation = targetRotation;
     }
 
     public void OnMove(InputValue input)
