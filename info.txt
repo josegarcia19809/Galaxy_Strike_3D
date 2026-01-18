@@ -1,6 +1,6 @@
 Complete C# Unity 3D Game Development in Unity 6
 
-Galaxy Strike 3D: C# Arrays & Foreach Loops
+Galaxy Strike 3D: Crosshair Rect Transform
 
 
 
@@ -13,12 +13,6 @@ Miércoles 14 de enero de 2026
 Jueves 15 de enero de 2026
 Domingo 18 de enero de 2026
 
-
-10:24
-
-07:45
-Crosshair Rect Transform
-05:19
 ScreenToWorldPoint Target
 06:02
 Vector Arithmetic
