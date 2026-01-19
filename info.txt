@@ -1,6 +1,6 @@
 Complete C# Unity 3D Game Development in Unity 6
 
-Galaxy Strike 3D: ScreenToWorldPoint Target
+Galaxy Strike 3D: Vector Arithmetic
 
 
 
@@ -13,10 +13,6 @@ Miércoles 14 de enero de 2026
 Jueves 15 de enero de 2026
 Domingo 18 de enero de 2026
 
-
-06:02
-Vector Arithmetic
-06:44
 Collision & Triggers
 06:24
 Particle Collision
