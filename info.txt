@@ -1,6 +1,6 @@
 Complete C# Unity 3D Game Development in Unity 6
 
-Galaxy Strike 3D: Instantiate at Runtime
+Galaxy Strike 3D: Nested Prefabs & Prefab Variants
 
 Fecha de inicio: Jueves 1 de enero de 2026
 
@@ -12,12 +12,9 @@ Jueves 15 de enero de 2026
 Domingo 18 de enero de 2026
 Lunes 19 de enero de 2026
 Jueves 22 de enero de 2026
+Jueves 29 de enero de 2026
 
 
-02:26
-
-10:02
-Nested Prefabs & Prefab Variants
 16:00
 Enemy Ship Variants
 11:14

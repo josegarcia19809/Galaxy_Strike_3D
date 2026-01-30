@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class CollisionHandler : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    [SerializeField] private GameObject destroyedFX;
     void Start()
     {
         
@@ -17,6 +17,8 @@ public class CollisionHandler : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
+        Instantiate(destroyedFX, transform.position, Quaternion.identity);
+        Destroy(this.gameObject);
         Debug.Log(other.gameObject.name);
     }
 }
