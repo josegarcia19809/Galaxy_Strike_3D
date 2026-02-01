@@ -1,6 +1,6 @@
 Complete C# Unity 3D Game Development in Unity 6
 
-Galaxy Strike 3D: Enemy Hit Points Public Methods C#
+Galaxy Strike 3D: Scoreboard UI
 
 Fecha de inicio: Jueves 1 de enero de 2026
 
@@ -15,10 +15,6 @@ Jueves 22 de enero de 2026
 Jueves 29 de enero de 2026
 Sábado 31 de enero de 2026
 
-
-12:17
-Scoreboard UI
-09:25
 Enemy Waves Using Control Tracks
 10:59
 Timeline Audio

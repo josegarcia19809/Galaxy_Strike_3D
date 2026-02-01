@@ -1,12 +1,14 @@
 using UnityEngine;
+using TMPro;
 
 public class Scoreboard : MonoBehaviour
 {
+    [SerializeField] private TextMeshProUGUI scoreboard;
     private int score = 0;
 
     public void IncreaseScore(int amount)
     {
         score += amount;
-        Debug.Log(score);
+        scoreboard.text = score.ToString();
     }
 }
