@@ -2,15 +2,11 @@ using UnityEngine;
 
 public class Scoreboard : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
+    private int score = 0;
 
-    // Update is called once per frame
-    void Update()
+    public void IncreaseScore(int amount)
     {
-        
+        score += amount;
+        Debug.Log(score);
     }
 }
