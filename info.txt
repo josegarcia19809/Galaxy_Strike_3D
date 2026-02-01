@@ -1,6 +1,6 @@
 Complete C# Unity 3D Game Development in Unity 6
 
-Galaxy Strike 3D: Nested Prefabs & Prefab Variants
+Galaxy Strike 3D: Enemy Hit Points
 
 Fecha de inicio: Jueves 1 de enero de 2026
 
@@ -13,15 +13,8 @@ Domingo 18 de enero de 2026
 Lunes 19 de enero de 2026
 Jueves 22 de enero de 2026
 Jueves 29 de enero de 2026
+Sábado 31 de enero de 2026
 
-
-16:00
-Enemy Ship Variants
-11:14
-Tune & Tweak
-06:55
-Enemy Hit Points
-06:13
 Public Methods C#
 12:17
 Scoreboard UI
