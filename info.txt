@@ -1,6 +1,6 @@
 Complete C# Unity 3D Game Development in Unity 6
 
-Galaxy Strike 3D: Displaying Dialogue Using Signals
+Galaxy Strike 3D: Reload Level Using Coroutines
 
 Fecha de inicio: Jueves 1 de enero de 2026
 
@@ -15,21 +15,9 @@ Jueves 22 de enero de 2026
 Jueves 29 de enero de 2026
 Sábado 31 de enero de 2026
 Domingo 1 de febrero de 2026
+Lunes 2 de febrero de 2026
 
 
-Portrait Camera Render Texture
-16:03
-Paint Trees on Terrain
-16:42
-Rendering, Lighting, & Shadows
-07:19
-Skybox
-03:19
-Post Processing
-05:48
-Layers & Multiple Volume Profiles
-07:11
-Reload Level Using Coroutines
 07:28
 Music Singleton
 06:12
