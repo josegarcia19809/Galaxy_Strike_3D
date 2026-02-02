@@ -1,6 +1,6 @@
 Complete C# Unity 3D Game Development in Unity 6
 
-Galaxy Strike 3D: Scoreboard UI
+Galaxy Strike 3D: Displaying Dialogue Using Signals
 
 Fecha de inicio: Jueves 1 de enero de 2026
 
@@ -14,13 +14,9 @@ Lunes 19 de enero de 2026
 Jueves 22 de enero de 2026
 Jueves 29 de enero de 2026
 Sábado 31 de enero de 2026
+Domingo 1 de febrero de 2026
 
-Enemy Waves Using Control Tracks
-10:59
-Timeline Audio
-05:44
-Displaying Dialogue Using Signals
-13:05
+
 Portrait Camera Render Texture
 16:03
 Paint Trees on Terrain
