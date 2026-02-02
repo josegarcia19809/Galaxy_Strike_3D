@@ -1,6 +1,6 @@
 Complete C# Unity 3D Game Development in Unity 6
 
-Galaxy Strike 3D: Reload Level Using Coroutines
+Galaxy Strike 3D: Music Singleton
 
 Fecha de inicio: Jueves 1 de enero de 2026
 
@@ -19,7 +19,7 @@ Lunes 2 de febrero de 2026
 
 
 07:28
-Music Singleton
+
 06:12
 Your Vertical Slice
 04:39
